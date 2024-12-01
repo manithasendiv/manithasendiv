@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Manitha Sendiv Rodrigo. I am from Sri Lanka, currently doing my B.Sc(Hons) Computer Science and Sofiware Engineering in SLIIT City Uni
 <!--
 **manithasendiv/manithasendiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
